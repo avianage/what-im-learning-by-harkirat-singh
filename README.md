@@ -84,3 +84,5 @@ https://x.com/Baheet_/status/1965758390430208066
 https://www.youtube.com/watch?v=odP153inZUo
 
 Shared mutable state in rust - https://draft.ryhl.io/blog/shared-mutable-state/
+
+https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
